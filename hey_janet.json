@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Hey Janet",
   "author": "kshoichi",
-  "website": "https://github.com/kshoichi",
+  "website": "https://github.com/kshoichi/",
   "model": "hey_janet.tflite",
   "trained_languages": ["en"],
   "version": 2,
